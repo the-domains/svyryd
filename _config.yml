@@ -1,0 +1,28 @@
+name: svyryd
+favicon: null
+layout_spectrum: 0.27245313371531665
+typography_spectrum: 0.24343036487698555
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9999813358299434
+  lightness: 0.5167342652566731
+  saturation: 0.8022114261984825
+  rhythmicContrast: 0.8138860464096069
+purpose: []
